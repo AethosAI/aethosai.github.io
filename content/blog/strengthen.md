@@ -1,5 +1,6 @@
 ---
 title: Strengthening The Alliance
+include_footer: true
 ---
 
 ![](/blog/strengthen_alliance_assets/Intro_Image.png)
