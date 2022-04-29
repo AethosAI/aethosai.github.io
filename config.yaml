@@ -19,7 +19,7 @@ params:
   description:
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/aethos_logo.svg
+    image: aethos_logo.svg
     link: /
   font:
     name: "Open Sans"
