@@ -94,3 +94,7 @@ Congrats! You pipeline is now able to provide the proper annotation format for y
 ## Additional Daffy Information
 
 Check out the [Readme](https://github.com/rutheferd/daffy/blob/develop/README.md) for the most up to date usage instructions.
+
+## Want to Discus?
+
+Catch us [here in the Pachyderm Slack channel #share-your-work](https://pachyderm-users.slack.com/archives/C02FFK2FD8B) - we'd love your feedback, or questions!!
